@@ -1,0 +1,169 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{LinkedInLearning Desing Thinking}
+\author{Abner Lugo }
+\date{September 2023}
+
+\begin{document}
+
+\maketitle
+
+\section{Herramientas de creatividad en Design Thinking:}
+El design thinking en una metodología para desarrollar ideas, productos, servicios o soluciones, poniendo a las personas en el centro del proceso de diseño. Funciona en situaciones de trabajo con clientes así como en una cutltura de trabajo oganizativa. Fue de las primeras metodologías en orientar al usuario como foco de los procesos creativos. \\ Nos dio herramientas para entender al mundo, analizarlo y crear soluciones. \\ 
+
+Encontraremos en el curso una guia apra el uso de las herramientas de design thinking. Estas herramientas surgen de la necesidad de traajar de forma creativa y colaborativa. \\
+
+\subsection{Fomentar el pensamiento divergente:}
+
+Es clave entrenar el cómo pensar de forma divergente para poder aportar soluciones creativas. Existen herramientas que fomentan este pensamiento lateral. 
+
+La mayoría de las personas cuentan con un pensamiento convergente muy fuerte, Hay que fomentar este estilo de trabajo si estamos o no en un proceso de design thinking, pues es la manera de entrenar el cerebro para ebncontrar soluciones y poder cumplir nuestros objetivos.
+
+\subsection{Brainstorming:} Posiblemente la herramienta más famosa en el mundo de la creatividad. Consiste de manera literal en una lluvia de ideas, personas lanzando ideas en desorden para posteriormente analizarlas. \\
+Un equipo se reune, se presenta el reto a trabajar. Cada persona presenta ideas en un espacio común, las ideas pasan a una fase posterior donde se valoran y se clasifican estas ideas, por ejemplo, se puede idear una matriz de valoración en donde se cuantifiquen estas ideas en base a su originalidad, su viabilidad, facilidad de implementación.
+
+Las reglas del brainstorming se pueden resumir como sigue: 
+
+\begin{itemize}
+    \item Cantidad antes de calidad: Las ideas deben llegar de forma natural para que las personas puedan juzgarlas.
+    \item No se critican las ideas mientras estas se encuentran 'cayendo', es decir, no se opina mientras los miembros están exponiendo sus ideas.
+    \item Se registran todas las aportaciones.
+    \item Construir sobre las ideas de los demás, lo importante es utilizar la imaginación y la creatividad para nutrir estas ideas. 
+\end{itemize}
+
+El brainstorming resulta de mucho valor incluso si se desea practicar en solitario para un toma de decisiones, pues muchas de las ideas que nos pasan en la cabeza no se terminan de materializar ya que no se presentan o se hacen 'tangibles'. Esta herramienta resulta sumamente nutritiva al momento de la toma de decisiones.
+
+\subsection{Brainwritting:} Un equipo se reune, con un reto a trabajar, el facilitador da un tiempo limitado para que el equipo escriba la primera idea que se le ocurra. Una vez que se escribe, se intercambia esta idea con la de un compañero y se vuelve a dar un tiempo para seguir desarrollando la idea propuesta por el compañero. Las ideas siguen rotando hasta que todo el equio ha aportado a cada idea. Todas estas ideas pasan a una fase posterior en donde son analizadas y juzgadas. \\
+
+Las reglas del brainwritting se pueden resumir como sigue: 
+
+\begin{itemize}
+    \item Cantidad antes de calidad: Las ideas deben llegar de forma natural para que las personas puedan juzgarlas.
+    \item No se critican las ideas mientras estas se encuentran 'cayendo', es decir, no se opina mientras los miembros están exponiendo sus ideas.
+    \item Pensar con originalidad e inspirar mutuamente al equipo.
+\end{itemize}
+
+Implementar ideas colaborativas en un espacio de trabajo permite recoger ideas y aportaciones del equipo para visualizar un panorama no visto.
+
+\subsection{Sombreros de bono:} Herramienta para provocar el pensamiento lateral, consiste en realizar provocaciones del pensamiento que lo desvíen de su patrón habitual, para ello, se utilizan analogias que alejan al cerebro de su medio natural de resolución de problemas.  \\
+
+De acuerdo con el autor, hay seis sombreros de diferente color que atribuye un estilo de pensamiento determinado.
+
+\begin{enumerate}
+    \item Blanco: Neutro y objetivo, por lo que se relaciona con los hechos objetivos y con los datos.
+    \item Rojo: Aporta el punto de vista emocional
+    \item Negro: Destaca puntos debiles de las ideas.
+    \item Amarillo: Optimista por tanto destaca los aspectos positivos.
+    \item Verde: Indica creatividad e ideas nuevas.
+    \item Azul: Se destina a la organización del pensamiento y del uso de los otros sombreros.
+\end{enumerate}
+
+Los estilos de pensamiento se pueden usar de varias formas diferentes, una de ellas sería adoptar una forma de pensamiento, por ejemplo un color de sombrero y pedir a los participantes que aporten ideas de acuerdo al color del sombrero, posteriormente pasamos a otro color hasta que abordamos todos los enfoques del pensamiento positivo. Se recomienda finalizar con el sombrero azul. \\ 
+
+Otro modo es ir asignando un color de sombrero a cada miembro del equipo, de modo que podemos pedir a un miembro que intervenga utilizando diferentes enfoques, de forma que jugamos con el clima de las respuestas. Es interesante asignar sombreros en función de los estilos de pensamiento que apriori no son naturales. Por ejemplo, si ubicamos un tipo de pensamiento de algún participante, le asignamos un sombrero con estilo de pensamiento diferente al que tiene ese miembro, con el fin de fomentar su creatividad. 
+
+\subsection{Crazy 8, como en BrBa jaja:}
+Técnica de generación de ideas para aquellos momentos en donde se use el tiempo como factor de presión creativo, para que los participantes generen un número de ideas elevado en muy poco tiempo. \\
+
+Suele utilizarse en procesos de diseño llamados design sprint, donde los equipos cuentan con cinco días para el desarrollo y prototipado de productos digitales. \\
+
+Consiste en desafiar a las personas a esbozar ocho ideas distitintas en ocho minutos. Para esto, cada miembro dobla una hoja de papel en ocho secciones, el facilitador configura un temporizador para ocho minutos. Los participantes hacen ocho dibujos de acuerdo a las ideas que tienen en mente. Al terminar, las plumas o lapices se sueltan al centro, el reto es llenar la hoja de ocho ideas. \\
+
+La técnica persigue que se venzan los bloqueos dando rienda suelta a los impulsos creativos. Las ideas más locas e imposibles, a menudo dan paso a ideas verdaderamente inspiradoras y a veces la unica forma de hacerlas florecer, es presionando a los participantes a vaciarlas en un tiempo muy limitado. \\
+
+Es importante no buscar ideas perfectas, pero si bocetos que nos perminan avanzar, desarrollarlos y nutrirlos en fases posteriores. 
+
+\section{Herramientas de análisis y reflexión en Design Thinking:}
+En los procesos de toma de decisiones, se producen muchos momentos en donde el equipo necesita reflexionar sobre las tareas que debe realziar o momentos donde debe elegir alguna alternativa y poder tomar perspectiva de la situación. \\
+
+Para mejorar la calidad de las conversaciones, existen herramientas que nos permiten ordenar la información que analizaremos y sobre la cual debemos hacer reflexión. Estas herramientas las podemos utilizar en cualquier momento del proceso, si bien, suelen usuarse en la segunda fase del DT, destinado al análisis de la inversitgación y definición de la problematica, es importante saber que pueden ser incluidas en cualquier momento. \\
+
+A medida que incrementemos el uso de estas herramientas, será más creativo y efectivo la reslución de problemas, además de que los resultados obtenidos serán cada vez mejores.
+
+\subsection{Mapa ecosistema:} Cuando hacemos DT, analizamos el entorno para empatizar con los usuarios afectados por la problemática, es imporante analizar el entorno para entender el contexto en el que operamos, entender el poder de influencia que los actores ejercen entre ellos y entender cómo una nueva idea va a impactar en este entorno. Esta herramienta no ayuda a responder a la sigueinte pregunta: \\
+\textbf{¿Quíenes son los diferentes actores que están involucrados en este proyecto o problema y cómo se relacionan entre ellos?} \\
+
+Para llevar a cabo un mapa de ecosistema, lo primero que debemos identificar son los actores, es decir, cualquier persona física o jurídica involucrada en el contexto de trabajo. \\
+
+Una vez que realizamos la identificación, trazamos en un papel o superficie dos círculos concéntricos, en el centro vamos a ubicar al actor principal, es decir, aquel para el cual buscamos mejorar la experiencia. Posteriormente, en el circulo externo, ubicaremos a actores que no tienen contacto directo con el usuario pero forman parte del sistema. Una vez que tenemos ubicados a los actores en estos círculos, trazamos flechas uniendo a actores que tienen relación entre sí, marcando también el tipo de transacción (por ejemplo, si es transaccional, afectiva, emocional, de relación de influencia o de relación de poder). 
+
+\subsection{Los 5 ¿Por qué?:} Analizar información es vital para obtener inspiración que nos haga tener ideas novedosas y relevantes para los usuarios. Cuando el análisis puede parecer superficial, recurrimos a esta herramienta: \\
+
+Es una técnica para realizar preguntas itearativas que relacionan el efecto causa de una circunstancia, con el objetivo de comprender cual es la razon profunda que origina el tema que estamos trabajando. Su uso no ayuda a profundizar rapidamente en la naturaleza de un problema a traves de las múltiples iteraciones, además de que promueve el trabajo en equipo, se recomienda aplicarlo con personas que tienen conocimiento del fenómeno estudiado. \\
+
+Es muy recomendable también usar esta herramienta en momentos de investigación. Para llevarla a cabo, simplemente debemos preguntar cinco veces por qué a un hecho determinado. \\
+
+Ejemplo práctico: Queremos analizar por qué el sistema en tienda arroja datos desactualizados de los clientes: 
+
+\begin{enumerate}
+    \item ¿Por qué el sistema arroja datos desactuaizados? Porque no se cargaron los datos el mes anterior.
+    \item ¿Por qué no se cargaron datos el mes anterior? Porque acababa de incorporarse y no fue capacitado.
+    \item ¿Por qué nadie le enseñó? Porque se actualizó el sistema y nadie conoce el procedimiento.
+    \item ¿Por qué nadie conoce el procedimiento? Porque no se ha impartido la formación en el uso del nuevo sistema.
+    \item ¿Por qué no se ha impartido la formación? Porque en el departamento de compras aun no se determina a la empresa responsable para hacer la tarea. 
+\end{enumerate}
+
+Se recomienda ir abriendo un camino de respuestas hasta llegar al quinto por qué, para tomar esta respuesta y poder dibujar un curso de acción distinto, ahora con mayor información disponible para dar solución a estos problemas. 
+
+\subsection{Volcado de hechos:} Es una herramienta que nos permite poner en común toda la información de una situación que deseamos analizar. Es importante tener un espacio donde el equipo pueda ver toda la información desde un solo vistazo. \\
+
+Si se trabaje en formato físico, tomar notas adhesivas de diferentes colores y tamaños, los colores ayudarán a hacer distinciones a la información, como la fuente de donde proviene, el departamento asociado, el usuario que trabajó la idea, entre otros. También es recomendable trabajar una escritura atractiva, vistoza y amistosa para facilitar la lectura y trabajo. \\
+
+Las notas deben resumir la información que se ha analizado, así como datos que nos han llamado la atención, información relativa a experiencias propias, reflexiones posteriores, cada post it debe tener una frase completa que cuente algo de la situación. Es importante que las frases contengan riqueza informacional, esto se consigue añadiendo palabras, mientras mas complemento de forma, tiempo, lugar o de forma, mejor será la información compartida.  \\
+
+Una vez que se ha 'volcado' la información, podemos agrupar las notas, poniendo en común aquellas que podrían tratar de la misma temática, podemos categorizarlos para simplificar el contenido. Mientras más información se comparta, más podrá aportar el equipo.
+
+\section{¿Cuándo usar este tipo de técnicas?:} La disciplina del diseño desarrolla técnicas y herramientas para la toma de decisiones. Estas herramientas se usan en todos los momentos del proceso, pero cobran más sentido en las fases de prototipado. Estas herrramientas funcionan para prototipar ideas, sobre todo si estas ideas son soluciones de nuevos servicios, o tienen como misión mejorar la experiencia que los clientes o usuarios tienen de tu solución. \\
+
+Dentro de la metodología de DT, pensamos que un prototipo es cualquier elemento que te permite mostrar una idea y obtener feedback. El momento ideal en el que usamos las herramientas para el diseño, es aquel en el que ya poseemos el concepto o idea y necesitamos profundizar en forma, funcionamiento o necesitamos hacer una representación más ajustada de su puesta en marcha. 
+
+\subsection{Mapa de empatía:} Muchas veces en necesario entrar en los zapatos de otra persona para determinar qué decisión es aquella que más la va a beneficiar. Un mapa de empatía cuenta con espacios de trabajo diferenciados que busca dar respuesta a preguntas. Antes de usar una plantilla de un mapa de empatía, hay que identificar con quién se va a trabajr, con el propósito de personalizar la información y trabajar de una forma más real y efectiva. Similar al caso visto con el volcado de información, podemos utilizar los colores de las notas en las que vaciemos la información del usuario para relacionarlas o emparejarlas. \\
+Un mapa de empatía busca responder las preguntas de \textbf{¿Qué piensa y siente? ¿Qué oye? ¿Qué ve? ¿Qué dice y hace?} para finalmente con los apartados de \textbf{esfuerzos} y \textbf{resultados}, toda esta información debe estar contextualizada, para mantener presente las emociones de los usuarios o clientes.
+
+\subsection{Customer journey map:} Buscamos contar cómo una persona vive la experiencia de usar nuestro producto o servicio. Customer journey map es una herramienta que permite estructurar visualmente el viaje de una experciencia, construirdo desde la perspectiva de los usuarios, para poder identificar puntos de contacto entre usuarios y compañía. Así como los elemtnos que hacen factible ese contacto. \\
+
+Se compone de tres cosas: 
+\begin{enumerate}
+    \item Momentos: Suponen la narrativa que cuenta en imágenes o por escrito, el desarrollo de una situación desde la perspectiva del usuario.
+    \item Emociones: Describen el estado emocional de la persona en cada momento de la experiencia, estas experiencias se pueden dibujar con emojis o con una linea que suba o baje en función de si se trata deuna experiencia positiva o negativa.
+    \item Artefactos: Elementos tangibles que hacen posible el diseño de la experiencia en cada momento del viaje, proporcionan los puntos de contacto, los cuales son los objetos que usamos con los clientes, espacios físicos que compartimos con ellos, señalética del espacio físico, la interfaz digital (email, web, app), incluso los empleados que están en contacto con el cliente, también son artefactos. 
+\end{enumerate}
+
+\textbf{¿Cómo empezar a utlizar la herramienta?} Elegir un escenario a diseñar, crear entre seis y ocho viñetas que describan lo que sucede en ese escenario en un orden temporal (tipo storyboard) para contar la perspectiva del usuario, describiendo las emociones existen en cada viñeta, describiéndolas lo más posible, no solo ubicarlas como positivas o negativas. Finalmente, identificar los artefactos a construir: ¿hay que diseñar pagina web para devluciones o quejas? ¿hay que habilitar un espacio? ¿hay que hacer mobiliario? 
+
+\subsection{Blueprint:} Qué necesitamos para poner en marcha la experiencia vista en el customer journey? Utilizaremos una herramienta llamada blueprint, la cual nos permite alinear la operativa de la organización para ser capaces de ser factible y viable la experiencia diseñada. \\
+
+Consiste en ampliar el customer journey map, desplegando todo lo que el cliente no ve. Podemos implementar tantas lineas de trabajo como sean necesarias, una propuesta es crear una linea de efectos directos en la compañia, también es util resaltar artefactos que se deben generar para estos cambios internos. \\
+
+Muchas veces, el preveer de estos eventos, nos ayuda a adelantarnos a los problemas y estar preparados para su solución. Con la contrucción de este blueprint, el equipo contará con toda una hoja de ruta de acciones y recursos involucrados en la creación de la expericnai, para estar más alineados al momento de gestionar actividades comunes, todo con el objetivo de mejorar la experiencia y brindar un servicio excelente.
+
+
+\section{Herramientas para la investigación.} Se utilizan en dos momentos del proceso: en la primera fase de empatía, pues buscamos inspirarnos y adquirir conocimiento para tener ideas novedosas y más cercanas a nuestros clientes o usuarios. En la fase de prototipado y test, lo que buscamos con las técnicas de investigación es validar si nuestras ideas están bie orientadas y tienen sentido para la gente. \\
+Es importante distinguirlas, pues aunque la tecnica sea la misma, el objetivo será diferente. 
+
+\begin{itemize}
+    \item Entrevistas de profundidad: Conversaciones guiadas que permiten la exploración de los temas planteados en el objetivo de la investigación. La idea es obtener un discurso del informante a través del diálogo. Las preguntas abiertas deben ser clasificadas por temática, indicando al entrevistado el objetivo y la importancia de su diálogo. Una buena guía debe contener de tres a cinco bloques temáticos. Es importante dejar claro el objetivo de la invertigación, es decir, qué cosas deseas aprender de la persona con la que vas a hablar. Las preguntas siempre deben ser abiertas. Dejar hablar al entrevistador y dejar paso a la improvisación. Grabar el audio de la conversación también puede ser una buena herramienta para posteriormente analizar el diálogo hecho.
+
+    \item Observaciones contextuales: Técnica que permite obtener información sobre los usuarios, el contexto en el que se utilizará el producto o servicio,a  traves del comportamiento de las personas \textbf{¿Quienes van a ser las personas observadas?}: Es importante definir qué queremos aprender de la observación y qué cosas vamos a objservar para tener ese aprendizaje. Es importante que el investigador se presente, indique el motivo de su trabajo, para mostrarse abierto y empático para generar el mejor clima posible. Es importante grabar la observación y preguntar aquello que no se conozca. Podemos utilziar una plantilla que nos ayude a estructurar el trabajo y planificar mejor duración y alcance. 
+    \begin{enumerate}
+        \item Fecha de observación
+        \item Lugar de la observación
+        \item Usuarios a observar
+        \item Tiempo de observación
+        \item Objetivos de la observación
+        \item Elementos a observar
+    \end{enumerate}
+    Es una propuesta atractiva para una plantilla de observación. Recordar que las observaciones suelen ser largas, por lo tanto no es recomendable hacer más de una por día. 
+\end{itemize}
+\section{Herramientas digitales:}
+
+\begin{itemize}
+    \item Mural: Diseñada para trabajar en remoto y colectivamente una mukltitud de tareas, entre ellas todas aquellas invlucradas en un proceso de design thinking. Son murales en donde se pueden crear herramietnas de trabajo apropiadas para cada fase, con facilidades de diseño, administración, programación, entre muchas otras. 
+    \item Smaply: Herramienta para crear personas y mapas de empatía, con diseño agradable e intuitivo para poder personalizar plantillas.
+    \item Mindmeister: Herramienta de trabajo colaborativo para crear mapas mentales.
+    \item Kumu: Mapas mentales más complejos.
+\end{itemize}
+
+\end{document}
+
